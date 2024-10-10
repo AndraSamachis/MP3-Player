@@ -1,0 +1,69 @@
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\StateChange.dll
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\StateChange.pdb
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\obj\Debug\StateChange.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\obj\Debug\StateChange.dll
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\obj\Debug\StateChange.pdb
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\obj\Debug\StateChange.csproj.CopyComplete
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\obj\Debug\StateChange.csproj.AssemblyReference.cache
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\StateChange.xml
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\StateChange.xml
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\StateChange.dll
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\StateChange.pdb
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\obj\Debug\StateChange.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\obj\Debug\StateChange.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\obj\Debug\StateChange.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\obj\Debug\StateChange.dll
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\obj\Debug\StateChange.pdb
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\StateChange.xml
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\StateChange.dll
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\StateChange.pdb
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\NAudio.Asio.dll
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\NAudio.Core.dll
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\NAudio.dll
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\NAudio.Midi.dll
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\NAudio.WinForms.dll
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\NAudio.WinMM.dll
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\NAudio.xml
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\obj\Debug\StateChange.csproj.AssemblyReference.cache
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\obj\Debug\StateChange.csproj.CoreCompileInputs.cache
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\obj\Debug\StateChange.csproj.CopyComplete
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\obj\Debug\StateChange.dll
+C:\Users\Rares\Desktop\ProiectIPfinal\ProiectIP2023\StateChange\obj\Debug\StateChange.pdb
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\NAudio.Asio.dll
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\NAudio.Core.dll
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\NAudio.dll
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\NAudio.Midi.dll
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\NAudio.Wasapi.dll
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\NAudio.WinForms.dll
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\NAudio.WinMM.dll
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\System.Security.AccessControl.dll
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\NAudio.xml
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\System.Security.AccessControl.xml
+C:\Users\LENOVO\Desktop\IP\Proiect\VARIANTA2\ProiectIP2023\StateChange\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\NAudio.Asio.dll
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\NAudio.Core.dll
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\NAudio.dll
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\NAudio.Midi.dll
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\NAudio.WinForms.dll
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\NAudio.WinMM.dll
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\NAudio.xml
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Andrei Rares\source\repos\ProiectIP\StateChange\bin\Debug\System.Security.Principal.Windows.xml
